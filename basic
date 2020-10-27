@@ -1,0 +1,7 @@
+fn main (){
+    
+    println! ("This is a test");
+    println! ("This {} {} {}", "is", "a", "test");
+    println! ("{2} {0} {1} {3}", "is", "a", "This", "test");
+
+}
